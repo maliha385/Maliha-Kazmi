@@ -57,5 +57,5 @@ data-led compliance operations.
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: www.linkedin.com/in/maliha-k
 - Location: Dubai, United Arab Emirates
